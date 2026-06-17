@@ -22,12 +22,12 @@ A aplicação está disponível em ambiente de produção:
 
 🔗 **API:**
 
-https://stockmanager-api-bzc4.onrender.com/
+https://stockmanager-api-febq.onrender.com
 
 
 📚 **Swagger Documentation:**
 
-https://stockmanager-api-bzc4.onrender.com/swagger-ui/index.html
+https://stockmanager-api-febq.onrender.com/swagger-ui/index.html#/
 
 
 ## 🎥 Demonstração
