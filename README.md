@@ -29,6 +29,12 @@ https://stockmanager-api-febq.onrender.com
 
 https://stockmanager-api-febq.onrender.com/swagger-ui/index.html#/
 
+Login para testar:
+{
+  "email": "admin@stockmanager.com",
+  "password": "123456"
+}
+
 
 ## 🎥 Demonstração
 
